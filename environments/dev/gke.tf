@@ -65,5 +65,4 @@ resource "kubernetes_namespace" "eshop-dev" {
     }
     name = "eshop-dev"
   }
-}git add -A
-git commit -m "istio added"
+} 
